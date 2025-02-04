@@ -19,7 +19,7 @@ Responsive Restaurant Website is a fully responsive and visually appealing websi
 ## 🚀 How to Run
 1. Clone the repository to your local machine:
    
-   git clone https://github.com/Gynaneshwar22/Responsive-Restaurant-Website.git
+   git clone https://github.com/Gynaneshwar22/Responsive_Restaurant_website.git
 
 2. Navigate to the project directory:
 
